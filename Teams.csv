@@ -1,0 +1,501 @@
+"number","name","earnings","gold","silver","bronze","premier"
+1,"T1","$6,182,083",15,7,1,13
+2,"Invictus Gaming","$3,805,688",7,6,8,3
+3,"Royal Never Give Up","$3,392,337",12,4,0,8
+4,"EDward Gaming","$2,993,530",13,4,4,10
+5,"Fnatic","$2,875,593",15,12,6,10
+6,"G2 Esports","$2,740,179",14,5,6,11
+7,"Samsung Galaxy","$2,650,967",4,2,1,1
+8,"Cloud9","$1,874,352",10,8,1,5
+9,"DAMWON Gaming","$1,722,401",8,2,2,5
+10,"FunPlus Phoenix","$1,714,349",2,5,2,2
+11,"TSM","$1,583,988",12,11,4,8
+12,"Team Liquid","$1,462,183",6,8,3,4
+13,"Team WE","$1,326,785",7,4,4,3
+14,"SK Telecom T1 K","$1,268,401",4,0,2,3
+15,"Flash Wolves","$1,196,184",9,1,3,7
+16,"Top Esports","$1,123,872",4,5,1,2
+17,"Taipei Assassins","$1,057,800",1,1,1,1
+18,"ROX Tigers","$979,303",2,3,1,1
+19,"JD Gaming","$962,946",2,4,4,1
+20,"KT Rolster","$825,521",3,7,3,1
+21,"DRX","$760,337",2,5,2,2
+22,"Gen.G Esports","$713,884",2,3,2,0
+23,"DetonatioN FocusMe","$626,778",11,6,1,1
+24,"Counter Logic Gaming","$609,975",5,7,6,2
+25,"H2K","$584,267",3,1,3,0
+26,"Oh My God","$563,443",2,3,2,2
+27,"Weibo Gaming","$561,025",2,1,2,0
+28,"Freecs","$494,236",1,2,4,0
+29,"MAD Lions","$491,959",8,1,1,2
+30,"Gambit Esports","$486,433",7,5,1,0
+31,"ahq e-Sports Club","$484,629",1,3,4,0
+32,"Unicorns Of Love","$423,061",7,6,2,0
+33,"Griffin","$414,848",3,3,1,1
+34,"100 Thieves","$395,750",1,2,0,1
+35,"Origen","$384,795",5,3,0,1
+36,"LGD Gaming","$372,686",1,2,1,1
+37,"GAM Esports","$368,589",6,5,1,0
+38,"Longzhu Gaming","$336,055",1,1,0,1
+39,"Misfits Gaming","$321,021",1,2,0,0
+40,"Splyce","$305,162",2,2,2,1
+41,"LDLC OL","$296,575",14,7,3,0
+42,"Azubu Frost","$293,102",0,2,0,0
+43,"Rare Atom","$288,055",2,0,0,0
+44,"MOUZ","$283,795",7,5,3,0
+45,"Moscow Five","$265,000",2,1,0,1
+46,"SK Gaming","$260,165",1,5,4,0
+47,"Saigon Buffalo","$257,807",2,4,1,0
+48,"Rogue","$255,250",0,1,2,0
+49,"PSG Talon","$240,250",4,1,0,0
+50,"Misfits Premier","$238,754",7,3,2,0
+51,"Team Vitality","$235,684",0,0,1,0
+52,"Albus NoX Luna","$226,138",1,0,0,0
+53,"Illuminar Gaming","$217,127",6,5,3,0
+54,"BIG","$217,054",6,2,1,0
+55,"eSuba","$213,108",9,2,0,0
+56,"Counter Logic Gaming Europe","$212,224",1,1,1,0
+57,"GamersOrigin","$209,008",11,7,7,0
+58,"paiN Gaming","$204,021",6,7,3,0
+59,"J Team","$201,118",1,2,5,1
+60,"Hanwha Life Esports","$200,751",0,1,1,0
+61,"FlyQuest","$200,625",0,2,1,0
+62,"INTZ","$198,121",7,3,0,0
+63,"SuperMassive Blaze","$197,851",6,3,0,2
+64,"KaBuM! e-Sports","$197,188",7,0,1,1
+65,"Snake Esports","$186,846",0,1,1,0
+66,"Anyone's Legend","$183,570",1,2,2,1
+67,"Ascension Gaming","$172,808",5,3,1,0
+68,"Kaos Latin Gamers","$170,507",4,4,0,0
+69,"MAD Team","$157,583",0,2,3,0
+70,"Invictus Gaming Young","$156,528",2,0,0,0
+71,"Millenium","$154,844",8,4,0,0
+72,"FC Schalke 04 Esports","$152,806",0,2,2,0
+73,"Dire Wolves","$152,679",5,1,2,1
+74,"Rainbow7","$152,537",5,1,3,0
+75,"Isurus","$151,214",2,4,3,0
+76,"Vega Squadron","$147,700",2,4,1,0
+77,"Immortals","$147,457",0,2,2,0
+78,"Infinity","$147,125",5,2,2,0
+79,"EURONICS Gaming","$146,785",6,1,1,0
+80,"Dignitas","$141,000",1,2,4,0
+81,"Jin Air Green Wings","$140,151",0,2,0,0
+82,"EVOS Esports","$138,492",1,1,4,0
+83,"Hong Kong Attitude","$132,776",2,1,1,0
+84,"MEGA Esports","$129,609",3,2,1,0
+85,"CJ Entus Blaze","$128,986",1,1,0,1
+86,"ESports Connected","$128,509",2,0,0,0
+87,"RED Canids","$127,938",5,0,3,1
+88,"Fenerbahçe Esports","$127,884",4,1,0,1
+89,"Fnatic Rising","$127,696",13,6,1,0
+90,"Machi Esports","$127,580",1,2,4,0
+91,"LNG Esports","$127,317",0,1,0,0
+92,"Karmine Corp","$118,607",3,2,1,0
+93,"KT Rolster Arrows","$117,978",1,0,0,1
+94,"G-Rex","$117,342",1,2,1,0
+95,"AGO ROGUE","$116,755",5,1,1,0
+96,"Alliance","$110,000",1,0,0,1
+97,"V3 Esports","$107,449",1,2,1,0
+98,"Keyd Stars","$104,141",3,5,2,2
+99,"FC Schalke 04 Evolution","$100,888",1,2,4,0
+100,"Team Flash","$96,580",2,1,1,0
+101,"Bilibili Gaming","$95,376",0,2,0,0
+102,"Ninjas in Pyjamas","$90,564",1,7,0,0
+103,"RoX","$88,053",0,4,0,0
+104,"ThunderTalk Gaming","$87,832",4,0,0,0
+105,"Giants","$85,619",6,4,0,0
+106,"Vitality.Bee","$84,474",3,3,4,0
+107,"SK Gaming Prime","$83,313",2,5,1,0
+108,"Cloud9 Academy","$81,500",3,4,0,0
+109,"JD-XL","$79,761",4,10,2,0
+110,"M19","$79,525",0,3,0,0
+111,"MVP","$78,591",0,1,0,0
+112,"Kongdoo Monster","$77,548",0,3,0,0
+113,"Nongshim RedForce","$74,677",1,2,1,0
+114,"GamerLegion","$74,652",1,1,3,0
+115,"K1CK","$72,996",2,6,1,0
+116,"Evil Geniuses","$72,900",1,1,2,0
+117,"Clutch Gaming","$72,813",1,0,0,0
+118,"CNB e-Sports Club","$72,023",0,3,2,0
+119,"SANDBOX Gaming","$70,935",0,1,1,0
+120,"Lemondogs","$70,000",0,1,0,0
+121,"Flamengo Esports","$69,527",1,4,0,0
+122,"Ad Hoc Gaming","$68,976",0,4,3,0
+123,"Team oNe eSports","$67,595",1,3,1,0
+124,"Beyond Gaming","$66,938",0,2,0,0
+125,"Team Just","$66,607",0,1,2,0
+126,"Virtus.pro","$65,686",1,1,0,0
+127,"PEACE","$63,938",1,1,0,0
+128,"All Knights","$62,930",1,2,2,0
+129,"PENTAGRAM","$61,609",6,3,2,1
+130,"100 Thieves Academy","$59,000",2,0,3,0
+131,"Liyab Esports","$58,836",4,2,0,0
+132,"Team Curse","$57,500",1,0,1,0
+133,"Winthrop University","$56,938",2,3,1,0
+134,"Gentside","$55,234",1,3,3,0
+135,"PDW","$53,741",2,3,3,0
+136,"SK Telecom T1 S","$53,414",0,0,0,0
+137,"FunPlus Phoenix Blaze","$52,939",0,1,2,0
+138,"Azubu Blaze","$52,799",2,1,0,0
+139,"No Org","$50,000",4,0,0,0
+140,"against All authority","$48,855",3,4,0,0
+141,"Dragon Army","$48,608",0,1,0,0
+142,"Suppup eSports","$46,939",3,0,0,0
+143,"CERBERUS Esports","$46,932",1,1,0,0
+144,"Maryville University","$46,800",3,2,4,0
+145,"Rebirth eSports","$46,512",1,4,2,0
+146,"Golden Guardians Academy","$45,125",1,3,2,0
+147,"Team Liquid Academy","$43,600",2,1,0,0
+148,"Pentanet.GG","$42,500",1,1,0,0
+149,"Legacy Esports","$41,406",3,0,4,1
+150,"Solary","$41,004",2,2,0,0
+151,"Team ROCCAT","$40,752",0,0,2,0
+152,"LowLandLions","$40,465",7,1,2,0
+153,"Chiefs Esports Club","$39,258",2,5,4,1
+154,"Team Singularity","$39,082",7,1,2,0
+155,"Sector One","$38,756",6,6,2,0
+156,"CrowCrowd","$38,719",0,2,0,0
+157,"Crvena zvezda Esports","$38,645",2,4,0,0
+158,"Movistar Riders","$38,359",1,2,1,0
+159,"Furious Gaming","$38,076",2,2,2,0
+160,"ASUS ROG ELITE","$37,865",1,2,0,0
+161,"Excel Esports","$37,718",5,3,0,0
+162,"Elements Pro Gaming","$37,622",0,1,0,0
+163,"KlikTech","$37,615",2,0,1,0
+164,"Shu Dai Xiong Gaming","$36,973",0,1,1,0
+165,"Unicorns of Love Sexy Edition","$36,340",0,2,1,0
+166,"We Love Gaming","$35,891",5,2,2,0
+167,"SeolHaeOne Prince","$35,637",0,0,2,0
+168,"TSM Academy","$35,500",1,1,1,0
+169,"Echo Fox","$35,000",0,1,2,0
+170,"Vaevictis eSports","$34,885",0,2,0,0
+171,"Gen.G Challengers","$34,806",1,0,1,0
+172,"Riddle Esports","$34,673",1,4,0,0
+173,"Tricked Esport","$32,881",1,0,1,0
+174,"UCAM Esports Club","$32,797",1,2,0,0
+175,"For The Win Esports","$32,362",5,4,1,0
+176,"Team Echo Zulu","$32,285",3,6,3,0
+177,"ROG Esport","$32,252",2,0,1,0
+178,"Spear Gaming","$32,164",3,1,1,0
+179,"Team Atlantis","$31,990",2,0,0,0
+180,"Copenhagen Wolves","$31,722",0,2,0,0
+181,"SPGeSports","$31,594",1,2,0,0
+182,"Resurgence","$31,518",0,1,0,0
+183,"Rogue Esports Club","$31,072",1,1,0,0
+184,"Royal Youth","$29,688",2,2,0,1
+185,"Giants Gaming","$29,574",1,0,0,0
+186,"devils.one","$29,486",1,1,1,0
+187,"Bilibili Gaming Junior","$29,308",0,1,0,0
+188,"Victory Five","$29,027",0,0,0,0
+189,"FURIA Esports","$28,582",1,0,1,0
+190,"Galatasaray Esports","$27,813",1,0,0,0
+191,"South Korea","$27,458",3,1,0,0
+192,"100 Thieves Next","$27,163",3,2,1,0
+193,"Barrage Esports","$26,955",1,0,0,0
+194,"T1 Challengers","$26,759",1,0,0,0
+195,"Dark Passage","$26,500",2,0,1,0
+196,"Evil Geniuses Academy","$26,000",0,2,1,0
+197,"Team AURORA","$25,668",1,0,0,1
+198,"Lunary","$25,604",2,1,2,0
+199,"Lowkey Esports","$25,463",0,1,0,0
+200,"One Breath Gaming","$25,269",0,0,1,0
+201,"Estral Esports","$25,100",5,1,0,0
+202,"FlyQuest Academy","$24,600",1,1,0,0
+203,"Panathinaikos A.C. eSports","$24,557",1,0,1,0
+204,"ANEW Esports","$24,000",2,2,0,0
+205,"IziDream","$23,940",5,0,0,0
+206,"Natus Vincere","$23,579",0,0,0,0
+207,"Cloud9 Eclipse","$23,250",2,0,0,0
+208,"Brion Esports","$22,753",0,0,1,0
+209,"CLG Academy","$22,600",2,1,0,0
+210,"Hard Random","$22,565",1,1,1,0
+211,"MnM Gaming","$22,324",1,5,6,0
+212,"Steelwolves Gaia","$22,168",0,2,0,0
+213,"Dignitas Academy","$21,500",1,0,0,0
+214,"Out of the Blue Team","$21,201",2,0,1,0
+215,"Team Secret","$21,022",0,0,1,0
+216,"Ventus Esports","$20,628",2,0,0,0
+217,"Team VSG","$20,467",0,2,0,0
+218,"Outplayed","$20,257",1,3,0,0
+219,"Hanwha Life Challengers","$19,946",0,1,0,0
+220,"Friends Forever QTV Gaming","$19,911",0,0,2,0
+221,"00 Nation","$19,903",4,0,1,0
+222,"PENTA 1860","$19,694",4,1,0,0
+223,"Anorthosis Famagusta Esports","$19,033",3,1,0,0
+224,"ArkAngel","$18,659",0,0,1,0
+225,"Bigetron Esports","$18,414",1,0,0,0
+226,"Enclave","$18,275",1,3,3,0
+227,"PSV Esports","$17,897",2,4,0,0
+228,"KV Mechelen Esports","$17,857",2,3,0,0
+229,"Wind and Rain","$17,773",0,1,1,0
+230,"Grow uP eSports","$17,689",0,2,0,0
+231,"ES Sharks","$17,597",1,0,0,0
+232,"FTV Esports","$17,299",0,0,0,0
+233,"Freecs Challengers","$17,258",0,1,0,0
+234,"mCon esports","$17,223",2,1,2,0
+235,"Team MCES","$16,746",0,1,2,0
+236,"SEM9","$16,500",0,0,0,0
+237,"Team DPD","$16,433",0,2,0,0
+238,"Bastille Legacy","$16,424",2,2,1,0
+239,"Evil Geniuses Prodigies","$16,413",1,1,1,0
+240,"Liberty","$16,373",0,2,1,0
+241,"NVision Esports","$16,315",1,1,0,0
+242,"Seorabeol Gaming","$16,246",1,0,0,0
+243,"Team Aze","$16,140",3,3,0,0
+244,"Cherry Esports","$16,128",0,0,0,0
+245,"Winners","$16,116",0,1,1,0
+245,"Wind and Rain Balkan","$16,116",1,0,1,0
+247,"Diabolus Esports","$15,769",4,4,4,0
+248,"Random 5","$15,384",1,0,0,0
+249,"G2 Arctic","$15,326",0,2,0,0
+250,"x25 eSports","$14,960",0,1,2,0
+251,"MachiX","$14,959",0,3,0,0
+252,"Joy Dream","$14,826",0,0,1,0
+253,"Alpha Esports","$14,740",0,0,0,0
+254,"Zero Tenacity","$14,521",1,1,0,0
+255,"LOUD","$14,210",1,0,1,0
+256,"Mysterious Monkeys.ESLM","$14,162",1,0,0,0
+257,"eUnited","$14,000",0,2,0,0
+258,"Redemption eSports Porto Alegre","$13,796",1,0,1,0
+259,"Sprout","$13,509",0,0,1,0
+260,"Raise Gaming","$13,143",0,1,1,0
+261,"Valiance","$13,126",0,2,0,0
+262,"YouthCrew Esports","$13,000",1,0,1,1
+263,"WIN Esports","$12,978",0,1,0,0
+264,"The Final Tribe","$12,606",1,1,0,0
+265,"WiLD MultiGaming","$12,360",1,1,1,0
+266,"Supernova","$12,250",3,1,0,0
+267,"Dynasty","$12,197",2,2,4,0
+268,"AGO Gaming","$11,901",1,1,1,0
+269,"Cruzados Esports","$11,818",1,2,0,0
+270,"Operation Kino","$11,732",0,0,3,0
+271,"FALKN","$11,261",1,2,0,0
+272,"Bombers","$11,250",1,0,0,0
+273,"MAMMOTH Esports Club","$11,125",1,0,0,0
+274,"Prodigy Esports","$11,002",0,1,0,0
+275,"Echo Fox Academy","$11,000",0,1,0,0
+276,"Team Forge","$10,952",1,1,0,0
+277,"Szata Maga+6","$10,901",0,1,0,0
+278,"EGN Esports","$10,858",3,3,1,0
+279,"Rensga Esports","$10,580",0,1,0,0
+280,"Undead Gaming","$10,560",2,1,0,0
+281,"Luxury Esports","$10,467",1,0,0,0
+282,"Arctic Gaming Mexico","$10,381",0,1,1,0
+283,"MAD Lions Madrid","$10,375",0,1,0,0
+284,"Capital Esports","$10,000",1,0,0,0
+284,"Wildcard Gaming Red","$10,000",3,0,0,0
+284,"Immortals Academy","$10,000",0,0,0,0
+287,"OZ Gaming","$9,982",0,0,1,0
+288,"KOVA Esports","$9,977",2,0,0,0
+289,"Burst The Sky Esports","$9,837",0,0,1,0
+290,"UTM Esports","$9,794",0,0,1,0
+291,"DRX Academy","$9,752",2,2,0,0
+292,"SolaFide Esports","$9,700",1,1,1,0
+293,"Warthox","$9,657",6,1,0,0
+294,"Mkers","$9,622",0,2,1,0
+295,"E WIE EINFACH E-SPORTS","$9,399",1,0,0,0
+296,"Team Kinguin","$9,013",1,0,0,0
+297,"9z Team","$8,970",2,4,0,0
+298,"Splyce Vipers","$8,910",1,0,0,0
+299,"Granit Gaming","$8,878",0,2,0,0
+300,"ahq e-Sports Club Korea","$8,857",0,0,0,0
+301,"Greek Regenesis","$8,761",0,3,0,0
+302,"Turing eSports","$8,738",1,0,0,0
+303,"eNsure","$8,714",2,0,0,0
+304,"NS RedForce Challengers","$8,629",0,0,1,0
+305,"Afro Beast","$8,548",1,0,0,0
+306,"Barrage Esports NA","$8,460",0,2,1,0
+307,"DAMWON Challengers","$8,429",1,0,0,0
+308,"ASURA","$8,380",0,0,0,0
+309,"Red Bulls","$8,319",0,0,0,0
+310,"T Show","$8,217",1,0,1,0
+311,"Vipers Inc","$8,059",0,4,2,0
+312,"nDurance Gaming","$8,037",0,0,0,0
+313,"Tempo Storm","$8,000",0,0,0,0
+313,"Golden Guardians","$8,000",0,1,0,0
+315,"NYYRIKKI White","$7,976",0,3,0,0
+316,"China","$7,834",1,1,1,0
+317,"Macko Esports","$7,745",2,1,0,0
+318,"SBTC Esports","$7,624",0,0,0,0
+319,"Gen.G Academy","$7,549",4,0,0,0
+319,"Paris Saint-Germain eSports","$7,549",0,0,0,0
+321,"Nova Esports","$7,500",0,0,0,0
+321,"BOOM Esports","$7,500",0,0,0,0
+323,"Copenhagen Flames","$7,444",0,3,1,0
+324,"Godsent","$7,353",0,0,0,0
+325,"GameWard","$7,337",0,1,1,0
+326,"Suning-S","$7,327",0,0,1,0
+326,"Triumphant Song Gaming","$7,327",0,1,0,0
+328,"Campus Party Sparks","$7,153",2,0,0,0
+329,"T1 Academy","$7,146",3,3,0,0
+330,"Beºiktaº Esports","$7,065",3,1,0,0
+331,"DeToNator","$7,000",0,1,0,0
+332,"Freecs Academy","$6,974",1,4,0,0
+333,"Santos e-Sports","$6,878",2,0,0,0
+334,"Vikings Gaming","$6,842",0,0,1,0
+335,"Dusty","$6,821",0,0,1,0
+336,"Sky Gaming","$6,594",0,0,1,0
+337,"No Team","$6,563",1,0,0,0
+338,"Resolve NA","$6,450",0,0,1,0
+339,"Impunity","$6,380",0,0,0,0
+340,"Fact Revolution","$6,367",1,0,1,0
+341,"Globant Emerald Team","$6,340",2,0,0,0
+342,"Shadow EK","$6,152",2,0,0,0
+343,"UniQ Esports Club","$6,150",2,0,0,0
+344,"Packa Pappas Kappsäck","$5,985",0,1,0,0
+345,"ORDER","$5,979",0,2,1,0
+346,"Atlando Esports","$5,841",0,0,0,0
+347,"Intrepid Fox Gaming","$5,813",0,2,0,0
+348,"Element Mystic","$5,774",0,0,0,0
+349,"Iron Hawks e-Sports","$5,586",0,1,0,0
+350,"Team THRLL","$5,322",0,0,2,0
+351,"Shadow Battlica","$5,245",1,2,0,0
+352,"Cream Real Betis","$5,119",0,1,1,0
+353,"Phelan Gaming","$5,107",0,0,1,0
+354,"Hyperion Esports","$5,093",0,0,1,0
+355,"PRIDE","$5,089",0,0,0,0
+356,"Nigma Galaxy EU","$5,087",1,1,0,0
+357,"Sin Gaming","$5,069",0,0,2,0
+358,"Runaway","$5,050",0,0,0,0
+359,"Falkol","$5,009",0,0,0,0
+360,"Istanbul Wildcats","$5,000",1,1,0,0
+360,"Coscu Army","$5,000",2,0,0,0
+362,"Team BDS","$4,746",1,0,1,0
+363,"Zombie Unicorns","$4,662",1,0,0,0
+364,"ASUS ROG Army","$4,648",0,0,1,0
+365,"Nordavind Academy","$4,511",1,1,0,0
+366,"GC Busan Rising Star","$4,481",0,0,0,0
+367,"Flamengo Esports Academy","$4,453",2,0,0,0
+368,"Iron Wolves","$4,412",1,1,1,0
+369,"Moss Seven Club","$4,365",0,1,0,0
+370,"Bifrost","$4,313",2,2,1,0
+371,"Radiance","$4,300",0,0,1,0
+372,"TNC Predator","$4,266",0,2,0,0
+373,"Zoos Gaming","$4,250",0,1,1,0
+374,"Brion Esports Challengers","$4,214",0,1,0,0
+375,"Wis³a P³ock Esports","$4,175",0,0,0,0
+376,"Team Phantasma","$4,156",1,2,1,0
+377,"AS Trenèín eSports","$4,114",1,0,0,0
+378,"ENCE","$4,110",0,0,0,0
+379,"Sector One Black","$4,062",1,0,0,0
+380,"ZHR Gaming","$4,028",0,1,0,0
+381,"Unsold Stuff Gaming","$4,000",1,2,4,1
+381,"Evilvice e-Sports","$4,000",0,0,0,0
+381,"Chinese Taipei","$4,000",0,0,2,0
+384,"Wildcard Gaming","$3,913",1,0,0,0
+385,"Fox B","$3,821",2,0,0,0
+386,"Aethra Esports","$3,782",0,0,2,0
+387,"SINNERS Esports","$3,650",0,3,0,0
+388,"KRC Genk Esports","$3,638",1,0,2,0
+389,"Team Ascent","$3,604",0,1,0,0
+390,"Brussels Guardians","$3,576",0,0,1,0
+391,"Team BattleComics","$3,550",0,1,1,0
+392,"Gamespace  E-Sports","$3,520",0,1,0,0
+393,"RSCA Esports","$3,444",0,0,1,0
+394,"XTEN Esports","$3,443",0,0,0,0
+395,"Black Star Gaming","$3,429",0,0,0,0
+396,"Dignitas Mirage","$3,400",0,0,1,0
+397,"Hillerod eSport","$3,346",0,0,0,0
+398,"Team Afro","$3,319",0,0,0,0
+399,"S2V Esports","$3,304",0,0,0,0
+400,"lvlUP Rhinos","$3,248",0,0,0,0
+401,"F-Soul Esports","$3,247",0,0,1,0
+402,"Hybrid Esports","$3,216",0,1,2,0
+403,"Azules Esports","$3,186",1,0,0,0
+404,"eXtatus","$3,177",0,1,0,0
+405,"Cream Esports Mexico","$3,100",1,0,3,0
+406,"BuzzKill","$3,060",0,1,0,0
+407,"Samsung Morning Stars","$2,962",1,1,1,0
+408,"Wind and Rain Germany","$2,944",0,0,0,0
+409,"Hall of Fame","$2,884",0,0,0,0
+410,"ToxicFalcons Belgium","$2,848",0,1,0,0
+411,"OverPower Esports","$2,802",0,0,0,0
+412,"FURIA Esports Academy","$2,761",0,1,0,0
+413,"TrainHard eSport","$2,745",0,1,0,0
+414,"YDN Esports","$2,743",1,0,0,0
+415,"Nongshim RedForce Academy","$2,729",0,1,1,0
+416,"Beºiktaº e-Sports Club Female","$2,677",1,1,0,0
+417,"Hanwha Life Academy","$2,566",0,1,1,0
+418,"ToxicFalcons","$2,504",1,0,0,0
+419,"nerdRage","$2,474",0,0,1,0
+420,"Team 7AM","$2,465",0,0,0,0
+421,"Goskilla","$2,372",1,0,0,0
+422,"PIGSPORTS","$2,307",1,0,0,0
+423,"Miners.gg","$2,304",0,0,0,0
+424,"Munster Rugby","$2,302",0,0,0,0
+425,"Five Kings","$2,270",1,0,0,0
+426,"Cyber Gaming","$2,131",0,1,2,0
+427,"Valhalla Vikings","$2,120",1,0,1,0
+428,"paiN Gaming Academy","$2,093",0,1,0,0
+429,"Solwing Esports","$2,053",0,1,0,0
+430,"Team PHZ","$2,039",1,0,1,0
+431,"Munster Rugby Academy","$2,015",0,1,0,0
+432,"PACT","$2,013",0,0,0,0
+433,"Avant Gaming","$2,000",0,1,0,0
+434,"SAMCLAN Esports Club","$1,961",1,1,2,0
+435,"Astralis Talent","$1,916",0,0,1,0
+436,"Jasny Gwint","$1,871",0,0,1,0
+437,"SANDBOX Gaming Academy","$1,819",0,0,1,0
+438,"KT Rolster Academy","$1,794",1,0,0,0
+439,"Team BDS Academy","$1,787",0,1,0,0
+440,"Vorax Liberty Academy","$1,781",0,0,0,0
+441,"Sharks Esports","$1,760",0,0,0,0
+442,"RED Academy","$1,745",0,0,0,0
+443,"Kenty","$1,733",0,1,0,0
+444,"mYinsanity","$1,729",1,0,0,0
+445,"Pyrsos Esports","$1,671",0,0,1,0
+445,"TimeOut Esports","$1,671",0,1,0,0
+447,"Dragon Gate Team","$1,620",0,0,0,0
+448,"Bogged","$1,600",0,0,0,0
+449,"DIVIZON","$1,583",0,1,0,0
+450,"Team Same Mordeczki","$1,542",0,0,0,0
+451,"Vanir","$1,530",0,0,0,0
+452,"Method2Madness","$1,483",0,1,0,0
+453,"Team Fighter","$1,455",1,0,0,0
+454,"Bulldog Esports","$1,319",0,0,0,0
+455,"LOUD Academy","$1,299",0,0,0,0
+456,"Rensga eSports Academy","$1,263",0,0,0,0
+457,"Racoon","$1,199",0,2,1,0
+458,"GOEXANIMO","$1,174",0,1,0,0
+459,"Tony Parker Adequat Academy","$1,097",0,0,1,0
+460,"Team Oplon","$1,024",2,1,0,0
+461,"Anahuac Esports","$1,000",0,1,0,0
+462,"Immortals AOE","$938",0,0,0,0
+463,"Fortress Esports","$937",0,1,0,0
+464,"Rascal Jester","$919",0,2,2,0
+465,"Loto Gaming","$900",0,1,0,0
+465,"Australs","$900",0,0,0,0
+467,"WP Gaming","$851",0,0,0,0
+467,"Submarino Stars","$851",0,0,0,0
+469,"PANTHERS Gaming","$842",0,0,0,0
+470,"Szef +6","$835",0,0,0,0
+471,"Team Infamous","$814",0,0,0,0
+472,"Galakticos","$812",0,0,1,0
+473,"MAD Lions Mexico","$750",0,0,0,0
+474,"KaBuM! e-Sports Academy","$743",0,0,0,0
+475,"BloodRain-Gaming","$730",0,1,0,0
+476,"Howling eSports","$711",0,0,0,0
+477,"Dynamo Eclot","$694",0,0,3,0
+478,"EBRO","$600",0,0,0,0
+479,"Intergalaxy Tigers Gaming","$598",0,0,0,0
+480,"DarkSpawn Esports","$592",0,0,0,0
+481,"Indictive Esports","$591",0,0,0,0
+481,"Esports Academy","$591",0,0,0,0
+483,"CAZ eSports","$588",0,0,0,0
+484,"OFFSET Esports","$586",0,0,2,0
+485,"G2 Vodafone","$582",0,0,0,0
+485,"eMonkeyz","$582",1,0,0,0
+487,"Yellow Stripes","$572",0,1,0,0
+488,"ASP Esports","$561",0,0,0,0
+489,"S2V Female","$557",0,1,1,0
+490,"DAMWON Gaming Academy","$510",0,0,0,0
+491,"MJ-Esports","$456",0,0,2,0
+492,"Sector One Academy","$421",0,0,0,0
+493,"Legion Gaming","$393",0,0,0,0
+494,"Miners.gg Academy","$386",0,0,0,0
+495,"INTZ Academy","$371",0,0,0,0
+496,"Hydras Esport","$342",0,0,0,0
+496,"NYYRIKKI Blue","$342",0,0,0,0
+498,"Nordic Fox Esport","$340",0,0,0,0
+499,"Taco Gaming","$313",0,1,0,0
+500,"KRÜ Esports","$301",0,0,0,0
